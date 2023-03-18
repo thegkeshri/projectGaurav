@@ -1,2 +1,2 @@
 hello i am gkk
-learning git as of now.
+learning git as of now
